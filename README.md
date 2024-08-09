@@ -119,3 +119,11 @@
   Row Background Color: Each row of news items has a black background (data-bg-card-bg-row-color="black").
   Border: A red border is applied around the card (data-bg-card-bg-border-color="danger").
   This setup ensures a customized appearance for the RSS feed with a clear and styled presentation based on the specified attributes.
+
+  Want to use Bell RSS on another way? We offer also a direct link:
+
+          https://rss.bellnetwork.eu/rss/<company>/feed
+
+Replace <company> with a valid value as sample
+
+        https://rss.bellnetwork.eu/rss/bell_games/feed
