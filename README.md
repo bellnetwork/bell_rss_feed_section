@@ -2,6 +2,8 @@
 
 **Bell RSS HTML Section**
 
+Easily integrate the latest RSS feeds from Bell Network into your website with our simple HTML snippet. Customize the appearance and behavior of the feed to suit your needs, and get real-time updates by using a straightforward URL.
+
 **HTML Structure:**
 
     <!-- RSS Feed Section -->
@@ -120,10 +122,15 @@
   Border: A red border is applied around the card (data-bg-card-bg-border-color="danger").
   This setup ensures a customized appearance for the RSS feed with a clear and styled presentation based on the specified attributes.
 
-  Want to use Bell RSS on another way? We offer also a direct link:
+**Direct RSS Feed URL**
+ If you prefer a direct URL to fetch the RSS feed, you can use the following structure:
 
-          https://rss.bellnetwork.eu/rss/<company>/feed
+    https://rss.bellnetwork.eu/rss/<company>/feed
 
-Replace <company> with a valid value as sample
+Replace <company> with a valid value. For example, to get the feed for bell_games:
 
-        https://rss.bellnetwork.eu/rss/bell_games/feed
+     https://rss.bellnetwork.eu/rss/bell_games/feed
+
+You can find a full list with all available projects for rss on https://rss.bellnetwork.eu
+
+This README description provides a clear and comprehensive guide for integrating and customizing the Bell RSS feed section, making it easier for users to implement it on their websites.
